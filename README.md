@@ -1,6 +1,6 @@
 <p align="center">
     <img width="200" src="<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/ushereats/ushereats/blob/main/54af7554ff50103855781c5c119da0ad-modified.png">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
